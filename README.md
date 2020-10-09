@@ -4,6 +4,7 @@ Kernel Level Timer Interrupt Latency Test ( Kernel Level Cyclictest)
 
 How to use it?
 
+
 1)./kcyclictest.sh cpu-id duration
 
 2) View the test result - cat /sys/kernel/debug/tracing/trace - The Last column is the latency value which is in nanoseconds.
