@@ -1,6 +1,6 @@
 # Latency_Test
 
-Kernel Level Timer Interrupt Latency Test ( Kernel Level Cyclictest)
+Kernel Level Timer Interrupt Latency Test
 
 How to use it?
 
