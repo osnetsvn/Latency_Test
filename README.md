@@ -1,5 +1,7 @@
 # Latency_Test
 
+Author:Kevin Cheng(tcheng8@binghamton.edu) - OSNET Lab, Binghamton University 
+
 Kernel Level Timer Interrupt Latency Test
 
 How to use it?
@@ -12,6 +14,8 @@ How to use it?
 3) Clean the test result - echo > /sys/kernel/debug/tracing/trace
 
 # Cumulative Distribution Curve (CDC)
+
+Author: Roja Eswaran (reswara1@binghamton.edu) - OSNET Lab, Binghamton University
 
 You can use cdc.py to create CDC for your trace.
 
