@@ -1,6 +1,6 @@
 # Latency_Test
 
-Author: Kevin Cheng(tcheng8@binghamton.edu) - OSNET Lab, Binghamton University 
+Author: Kevin Cheng(tcheng8@binghamton.edu) Roja Eswaran (reswara1@binghamton.edu) - OSNET Lab, Binghamton University 
 
 Kernel Level Timer Interrupt Latency Test
 
